@@ -17,3 +17,6 @@ let someRichGuysCar = Car(customerChosenColor: "Gold")
 
 myCar.drive()
 
+let mySelfDrivingCar = SelfDrivingCar()
+mySelfDrivingCar.drive()
+
